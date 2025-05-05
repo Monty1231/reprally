@@ -1,0 +1,37 @@
+Data Analysis Case Study Report
+Generated: 2025-05-05T12:39:31.689247
+
+=== Q1: Unpacking Excellence ===
+Top 20 Performers by Quantity Sold & Average Stock:
+                                            quantity_sold avg_stock
+Product                                                            
+Brewer's Cookies  - Chocolate Chip/Sea Salt        88,383    71,483
+Dark Chocolate Grain Free Pretzels                 56,338    14,137
+Cranberry Almond Crisps                            56,151    10,113
+Earl Grey Shortbread                               41,840     3,224
+Freeze Dried Crunchy Bears                         39,651    38,566
+Gummy Sour Mix (16 oz)                             38,700     4,570
+Gummy Peach Rings (14 oz)                          29,100     3,327
+Gummy Rainforest Frogs (15 oz)                     28,866     6,064
+Gummy Sour Worms (14 oz)                           28,699     6,150
+Cactus Rose Sparkling Water                        27,618    13,482
+Ancho Villa Biltong 2oz                            27,386    19,447
+Wax Bottles                                        27,293     4,838
+Moose bar                                          27,077     5,245
+Dark Chocolate Coated Almonds                      21,375     8,999
+Classic 100% Grass-Fed Beef Jerky, 1.0oz           21,072     4,873
+Fruit and Nut Bars - Cashew & Cranberry            20,211     5,857
+Pretzel Shortbread Cookies                         19,924     2,028
+GUMMY FROGS                                        19,743    17,461
+Black Ops Chocolate Bar                            19,584     3,285
+Orange Cream Truffle                               19,552     3,291
+
+=== Q2: Strategies & Events Impact ===
+Impact analysis placeholder.
+(Join with event calendar or marketing logs on date.)
+
+=== Q3: Recommendations for Underperformers ===
+Recommendations placeholder:
+- Bundle underperformers with best-sellers
+- Test targeted discounts or refreshed imagery
+- Review pricing for low-movement SKUs
